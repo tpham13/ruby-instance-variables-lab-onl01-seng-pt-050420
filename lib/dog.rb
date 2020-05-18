@@ -4,7 +4,7 @@ class Dog
   end
  
   def name
-    this_dogs_name                # name is a getter 
+    this_dogs_name            # name is a getter;                             this is a local variable 
   end
 end
 
